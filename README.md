@@ -1,2 +1,6 @@
 # RESTful-API
 An example RESTful API for a news publishing agency.
+
+This Project includes a client (myclient) and a site (mysite). The Client was developed to interact with the site. 
+
+Tested using Postman.
