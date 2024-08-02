@@ -7,11 +7,11 @@ Tested using Postman.
 
 # Commands
 
-Login [username][password
-Logout
-Post
-News [id][category][region][date]
-List
-Delete [id]
+1) Login [username][password
+2) Logout
+3) Post
+4) News [id][category][region][date]
+5) List
+6) Delete [id]
 
 More details can be found in the report labelled "CW1 Report Template"
